@@ -4,4 +4,4 @@
 
 ## 使用方法
 ```bash
-curl -sSL https://github.com/h63016401/docker-install-script/main/install-docker.sh | bash
+curl -sSL https://raw.githubusercontent.com/h63016401/docker-install-script/main/install-docker.sh | bash
